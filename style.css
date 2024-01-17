@@ -107,4 +107,8 @@ body {
     flex-direction: column;
     border-radius: 0px;
   }
+
+  .attribution{
+    display: none;
+  }
 }
